@@ -1,0 +1,19 @@
+.contenido{
+    background-color: rgb(119, 250, 79);
+    color: rgb(184, 17, 230);
+    font-weight: bold;
+    font-style:italic;
+
+    text-align: center;
+}
+.cosas{
+    background-color: orange;
+}
+body{
+    zoom: 160%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    text-align: center;
+    font-size: xx-small;
+}
